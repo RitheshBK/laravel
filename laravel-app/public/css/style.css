@@ -1,0 +1,12 @@
+.list-item-class{
+    width:100%
+}
+
+
+.list-name{
+    float: left;
+}
+
+.list-form{
+    float: right; 
+}
